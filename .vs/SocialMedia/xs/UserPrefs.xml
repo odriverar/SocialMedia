@@ -1,0 +1,20 @@
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{A24FDC01-BE78-4131-9B31-AD57B1EE7A68}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SocialMedia" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SocialMedia.Api PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Tests.SocialMedia.UnitTests FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Tests.SocialMedia.IntegrationTests FirstBuild="True" />
+</Properties>

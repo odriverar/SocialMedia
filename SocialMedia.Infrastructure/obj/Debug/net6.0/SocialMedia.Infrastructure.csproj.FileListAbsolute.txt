@@ -1,0 +1,15 @@
+/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Infrastructure/bin/Debug/net6.0/SocialMedia.Infrastructure.deps.json
+/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Infrastructure/bin/Debug/net6.0/SocialMedia.Infrastructure.dll
+/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Infrastructure/bin/Debug/net6.0/SocialMedia.Infrastructure.pdb
+/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Infrastructure/bin/Debug/net6.0/SocialMedia.Core.dll
+/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Infrastructure/bin/Debug/net6.0/SocialMedia.Core.pdb
+/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Infrastructure/obj/Debug/net6.0/SocialMedia.Infrastructure.csproj.AssemblyReference.cache
+/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Infrastructure/obj/Debug/net6.0/SocialMedia.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Infrastructure/obj/Debug/net6.0/SocialMedia.Infrastructure.AssemblyInfoInputs.cache
+/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Infrastructure/obj/Debug/net6.0/SocialMedia.Infrastructure.AssemblyInfo.cs
+/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Infrastructure/obj/Debug/net6.0/SocialMedia.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Infrastructure/obj/Debug/net6.0/SocialMedia.Infrastructure.csproj.CopyComplete
+/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Infrastructure/obj/Debug/net6.0/SocialMedia.Infrastructure.dll
+/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Infrastructure/obj/Debug/net6.0/refint/SocialMedia.Infrastructure.dll
+/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Infrastructure/obj/Debug/net6.0/SocialMedia.Infrastructure.pdb
+/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Infrastructure/obj/Debug/net6.0/ref/SocialMedia.Infrastructure.dll

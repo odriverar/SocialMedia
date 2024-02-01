@@ -1,0 +1,191 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Api/SocialMedia.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Api/SocialMedia.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Api/SocialMedia.Api.csproj",
+        "projectName": "SocialMedia.Api",
+        "projectPath": "/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Api/SocialMedia.Api.csproj",
+        "packagesPath": "/Users/david/.nuget/packages/",
+        "outputPath": "/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/david/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "/usr/local/share/dotnet/sdk/7.0.310/Sdks/Microsoft.NET.Sdk.Web/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Core/SocialMedia.Core.csproj": {
+                "projectPath": "/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Core/SocialMedia.Core.csproj"
+              },
+              "/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Infrastructure/SocialMedia.Infrastructure.csproj": {
+                "projectPath": "/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Infrastructure/SocialMedia.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.310/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Core/SocialMedia.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Core/SocialMedia.Core.csproj",
+        "projectName": "SocialMedia.Core",
+        "projectPath": "/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Core/SocialMedia.Core.csproj",
+        "packagesPath": "/Users/david/.nuget/packages/",
+        "outputPath": "/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/david/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.310/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Infrastructure/SocialMedia.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Infrastructure/SocialMedia.Infrastructure.csproj",
+        "projectName": "SocialMedia.Infrastructure",
+        "projectPath": "/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Infrastructure/SocialMedia.Infrastructure.csproj",
+        "packagesPath": "/Users/david/.nuget/packages/",
+        "outputPath": "/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/david/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Core/SocialMedia.Core.csproj": {
+                "projectPath": "/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Core/SocialMedia.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.310/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

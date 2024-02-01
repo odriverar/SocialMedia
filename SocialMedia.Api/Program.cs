@@ -1,4 +1,6 @@
-﻿using SocialMedia.Core.Interfaces;
+﻿using Microsoft.EntityFrameworkCore;
+using SocialMedia.Core.Interfaces;
+using SocialMedia.Infrastructure.Data;
 using SocialMedia.Infrastructure.Repositories;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -6,6 +8,11 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 builder.Services.AddControllers();
+
+//Configuramos la cadena de conexión
+builder.Services.AddDbContext<SocialMediaContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("SocialMedia"))
+);
 
 // Injectamos la dependencia --> Injección de dependencia
 builder.Services.AddTransient<IPostRepository, PostRepository>();

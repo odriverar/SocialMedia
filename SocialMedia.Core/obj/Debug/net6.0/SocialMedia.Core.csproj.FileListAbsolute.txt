@@ -1,7 +1,6 @@
 /Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Core/bin/Debug/net6.0/SocialMedia.Core.deps.json
 /Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Core/bin/Debug/net6.0/SocialMedia.Core.dll
 /Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Core/bin/Debug/net6.0/SocialMedia.Core.pdb
-/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Core/obj/Debug/net6.0/SocialMedia.Core.csproj.AssemblyReference.cache
 /Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Core/obj/Debug/net6.0/SocialMedia.Core.GeneratedMSBuildEditorConfig.editorconfig
 /Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Core/obj/Debug/net6.0/SocialMedia.Core.AssemblyInfoInputs.cache
 /Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Core/obj/Debug/net6.0/SocialMedia.Core.AssemblyInfo.cs
@@ -10,3 +9,4 @@
 /Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Core/obj/Debug/net6.0/refint/SocialMedia.Core.dll
 /Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Core/obj/Debug/net6.0/SocialMedia.Core.pdb
 /Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Core/obj/Debug/net6.0/ref/SocialMedia.Core.dll
+/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Core/obj/Debug/net6.0/SocialMedia.Core.csproj.AssemblyReference.cache

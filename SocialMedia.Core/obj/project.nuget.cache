@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Zyfdt6Hb01XHrXMNy3gwpCSvdsxu//aNdeJ0CfAxn0FV6g2BDZSQm3MFznPyivuRcn5hS/dDVo9BbYoCO88hhA==",
+  "dgSpecHash": "r38irgwUDuAtKCAJCiGBDFwm9eySXzHyaND5+mdDtlYIvyu3x57kb81QzPEfnM4FXc0nfYAHfhYD1Ij7YlCAOA==",
   "success": true,
   "projectFilePath": "/Users/david/Projects/RESTFull/SocialMedia/SocialMedia.Core/SocialMedia.Core.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/david/.nuget/packages/microsoft.netcore.app.ref/6.0.26/microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "/Users/david/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.26/microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+  ],
   "logs": []
 }

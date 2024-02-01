@@ -10,11 +10,13 @@
     <None Remove="Data\" />
     <None Remove="Repositories\" />
     <None Remove="Filters\" />
+    <None Remove="Data\Configurations\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Data\" />
     <Folder Include="Repositories\" />
     <Folder Include="Filters\" />
+    <Folder Include="Data\Configurations\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SocialMedia.Core\SocialMedia.Core.csproj" />
